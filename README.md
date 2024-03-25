@@ -23,7 +23,7 @@ I'm a passionate Certified Ethical Hacker (CEH) and cybersecurity enthusiast wit
 ## 📢 Let's Connect
 
 - LinkedIn: [SANJAY KUMAR](https://www.linkedin.com/in/rubikproxy)
-- Email: [sudharsanjaynvm@zohomail.in](mailto:sudharsanjaynvm@zohomail.in)
+- Email: [hello@vinsanjay.me](mailto:hello@vinsanjay.me)
 - Twitter: [SANJAY KUMAR](https://twitter.com/rubikproxy)
 
 Feel free to explore my GitHub repositories to see my projects and contributions. Let's collaborate and innovate together!
