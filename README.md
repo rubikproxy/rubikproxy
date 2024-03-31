@@ -12,13 +12,11 @@ I'm a passionate Certified Ethical Hacker (CEH) and cybersecurity enthusiast wit
 
 - ☁️ **Cloud Aficionado**: I've dabbled in the clouds, mastering Google Cloud and Amazon Web Services (AWS) to create scalable solutions.
 
-- 💬 **Languages**: Fluent in Python, C, C++, and Java, and I have a knack for scripting with Bash.
+- 💬 **Languages**: Fluent in Python, C, C++, and ruby, and I have a knack for scripting with Bash.
 
 ## 📚 Certifications
 
-- Certified Ethical Hacker (CEH)
-- Certified Information Systems Security Professional (CISSP)
-- Offensive Security Certified Professional (OSCP)
+- Certified Ethical Hacker (CEH) 
 
 ## 📢 Let's Connect
 
