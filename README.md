@@ -42,9 +42,6 @@ Feel free to explore my GitHub repositories to see my projects and contributions
 <p align=center>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rubikproxy&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></img>
 </p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=rubikproxy" height="150" alt="stats graph"  />
-</div>
 
 ## 📈 Github trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=gokulapap&theme=onedark&row=1&margin-w=2&margin-h=2)](https://github.com/gokulapap)
