@@ -39,7 +39,3 @@ Feel free to explore my GitHub repositories to see my projects and contributions
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubikproxy&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 
-
-
-## 📈 Github trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=gokulapap&theme=onedark&row=1&margin-w=2&margin-h=2)](https://github.com/gokulapap)
