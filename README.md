@@ -33,9 +33,4 @@ Feel free to explore my GitHub repositories to see my projects and contributions
 &nbsp; &nbsp;
 <img src="https://komarev.com/ghpvc/?username=rubikproxy" alt="rubikproxy"/>
 </p>
-  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rubikproxy&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubikproxy&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p>
 
